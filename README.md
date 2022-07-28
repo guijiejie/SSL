@@ -1,4 +1,4 @@
-# ASurveyonSelf-SupervisedLearning
+# A Survey on Self-Supervised Learning
 This repository provides a summary of algorithms from our review paper[链接](). 
 
 We classify self-supervised algorithms into different pretext tasks. A popular solution of SSL is to propose a pretext task for networks to solve and networks will be trained by learning objective functions of pretext tasks. The features are learned through this process.
