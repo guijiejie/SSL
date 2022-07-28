@@ -19,5 +19,5 @@ We supply the bibtex file of our paper.
 <!--################################################################-->
 ## Generative Algorithms
 
-# APPLICATIONS
+# Applications
 
