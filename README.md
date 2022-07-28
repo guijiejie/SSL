@@ -9,6 +9,7 @@ If you have any suggestions or find our work helpful, feel free to contact us(Em
 
 We supply the bibtex file of our paper.
 
+# Algorithms
 ## Context Based Methods
 
 
@@ -17,3 +18,6 @@ We supply the bibtex file of our paper.
 
 <!--################################################################-->
 ## Generative Algorithms
+
+# APPLICATIONS
+
