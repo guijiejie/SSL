@@ -105,23 +105,23 @@ and their Compositionality.
 \[[paper](https://arxiv.org/pdf/1912.06430v4.pdf)\]
 \[[code](https://github.com/antoine77340/MIL-NCE_HowTo100M)\]
 
-* **:** Unsupervised Learning of Visual Representations using Videos.
+* Unsupervised Learning of Visual Representations using Videos.
 \[[paper](https://arxiv.org/pdf/1505.00687.pdf)\]
 
-* **:** Unsupervised Learning of Video Representations using LSTMs.
+* Unsupervised Learning of Video Representations using LSTMs.
 \[[paper](https://arxiv.org/pdf/1502.04681v3.pdf)\]
 \[[code](https://github.com/mansimov/unsupervised-videos)\]
 
 #### 1. Temporal information in videos:
 The order of the frames:
-* **:** Shuffle and Learn: Unsupervised Learning using Temporal Order Verification.
+* Shuffle and Learn: Unsupervised Learning using Temporal Order Verification.
 \[[paper](https://arxiv.org/pdf/1603.08561v2.pdf)\]
 
-* **:** Self-Supervised Video Representation Learning With Odd-One-Out Networks.
+* Self-Supervised Video Representation Learning With Odd-One-Out Networks.
 \[[paper](https://arxiv.org/pdf/1611.06646v4.pdf)\]
 
 Video playing direction:
-* **:** Learning and Using the Arrow of Time.
+* Learning and Using the Arrow of Time.
 \[[paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Wei_Learning_and_Using_CVPR_2018_paper.pdf)\]
 
 Video playing speed:
@@ -137,20 +137,20 @@ Video playing speed:
 \[[code](https://github.com/TengdaHan/CoCLR)\]
 
 #### 3. Multi-modal(ality) data such as RGB, audio, and narrations
-* **:** Cooperative Learning of Audio and Video Models from Self-Supervised Synchronization.
+* Cooperative Learning of Audio and Video Models from Self-Supervised Synchronization.
 \[[paper](https://arxiv.org/pdf/1807.00230v2.pdf)\]
 
-* **:** Time-Contrastive Networks: Self-Supervised Learning from Video.
+* Time-Contrastive Networks: Self-Supervised Learning from Video.
 \[[paper](https://arxiv.org/pdf/1704.06888v3.pdf)\]
 
 #### 4. Spatial-temporal coherence of objects such as colours and shapes
-* **:** Learning Correspondence from the Cycle-Consistency of Time.
+* Learning Correspondence from the Cycle-Consistency of Time.
 \[[paper](https://arxiv.org/pdf/1903.07593v2.pdf)\]
 
 * **VCP:** Video Cloze Procedure for Self-Supervised Spatio-Temporal Learning.
 \[[paper](https://arxiv.org/pdf/2001.00294v1.pdf)\]
 
-* **:** Joint-task Self-supervised Learning for Temporal Correspondence.
+* Joint-task Self-supervised Learning for Temporal Correspondence.
 \[[paper](https://arxiv.org/pdf/1909.11895v1.pdf)\]
 \[[code](https://github.com/Liusifei/UVC)\]
 
