@@ -53,7 +53,7 @@ A New Approach to Self-Supervised Learning.
 
 <!--################################################################-->
 ## Generative Algorithms
-* **Beit:** Beit: Bert pre-training of image transformers.
+* **BEiT:** Beit: Bert pre-training of image transformers.
 \[[paper](https://openreview.net/pdf?id=p-BhZSz59o4)\]
 \[[code](https://github.com/microsoft/unilm/tree/master/beit)\]
 
@@ -70,7 +70,7 @@ A New Approach to Self-Supervised Learning.
 \[[code](https://github.com/microsoft/simmim)\]
 
 # Applications
-## Sequential data
+## 4.1 Sequential data
 Natural language processing (NLP)
 * **Skip-Gram:** Distributed Representations of Words and Phrases
 and their Compositionality.
@@ -82,9 +82,83 @@ Language Understanding.
 \[[paper](https://aclanthology.org/N19-1423.pdf)\]
 \[[code](https://github.com/google-research/bert)\]
 
-Sequential models for image processing and computer vision
-## Image processing and computer vision
+* **GPT:** Improving Language Understanding
+by Generative Pre-Training.
+\[[paper](https://www.cs.ubc.ca/~amuham01/LING530/papers/radford2018improving.pdf)\]
 
+Sequential models for image processing and computer vision
+* **CPC:** Representation learning with contrastive predictive coding.
+\[[paper](https://arxiv.org/pdf/1807.03748v2.pdf)\]
+
+* **Image GPT:** Distributed Representations of Words and Phrases
+and their Compositionality.
+\[[paper](https://cdn.openai.com/papers/Generative_Pretraining_from_Pixels_V2.pdf)\]
+\[[code](https://github.com/openai/image-gpt)\]
+
+## 4.2 Image processing and computer vision
+### video
+* **MIL-NCE:** End-to-End Learning of Visual Representations From Uncurated Instructional Videos.
+\[[paper](https://arxiv.org/pdf/1912.06430v4.pdf)\]
+\[[code](https://github.com/antoine77340/MIL-NCE_HowTo100M)\]
+
+* **:** Unsupervised Learning of Visual Representations using Videos.
+\[[paper](https://arxiv.org/pdf/1505.00687.pdf)\]
+
+* **:** Unsupervised Learning of Video Representations using LSTMs.
+\[[paper](https://arxiv.org/pdf/1502.04681v3.pdf)\]
+\[[code](https://github.com/mansimov/unsupervised-videos)\]
+
+#### 1. Temporal information in videos:
+The order of the frames:
+* **:** Shuffle and Learn: Unsupervised Learning using Temporal Order Verification.
+\[[paper](https://arxiv.org/pdf/1603.08561v2.pdf)\]
+
+* **:** Self-Supervised Video Representation Learning With Odd-One-Out Networks.
+\[[paper](https://arxiv.org/pdf/1611.06646v4.pdf)\]
+
+Video playing direction:
+* **:** Learning and Using the Arrow of Time.
+\[[paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Wei_Learning_and_Using_CVPR_2018_paper.pdf)\]
+
+Video playing speed:
+* **SpeedNet:** SpeedNet: Learning the Speediness in Videos.
+\[[paper](https://arxiv.org/pdf/2004.06130v2.pdf)\]
+
+#### 2. Motion of objects such as optical flow:
+* **DynamoNet:** DynamoNet: Dynamic Action and Motion Network.
+\[[paper](https://arxiv.org/pdf/1904.11407v1.pdf)\]
+
+* **CoCLR:** Self-supervised Co-training for Video Representation Learning.
+\[[paper](https://arxiv.org/pdf/2010.09709v2.pdf)\]
+\[[code](https://github.com/TengdaHan/CoCLR)\]
+
+#### 3. Multi-modal(ality) data such as RGB, audio, and narrations
+* **:** Cooperative Learning of Audio and Video Models from Self-Supervised Synchronization.
+\[[paper](https://arxiv.org/pdf/1807.00230v2.pdf)\]
+
+* **:** Time-Contrastive Networks: Self-Supervised Learning from Video.
+\[[paper](https://arxiv.org/pdf/1704.06888v3.pdf)\]
+
+#### 4. Spatial-temporal coherence of objects such as colours and shapes
+* **:** Learning Correspondence from the Cycle-Consistency of Time.
+\[[paper](https://arxiv.org/pdf/1903.07593v2.pdf)\]
+
+* **VCP:** Video Cloze Procedure for Self-Supervised Spatio-Temporal Learning.
+\[[paper](https://arxiv.org/pdf/2001.00294v1.pdf)\]
+
+* **:** Joint-task Self-supervised Learning for Temporal Correspondence.
+\[[paper](https://arxiv.org/pdf/1909.11895v1.pdf)\]
+\[[code](https://github.com/Liusifei/UVC)\]
 
 ## Other fields
+* **medical field:** Preservational Learning Improves Self-supervised Medical Image Models by Reconstructing Diverse Contexts.
+\[[paper](https://arxiv.org/pdf/2109.04379v2.pdf)\]
+\[[code](https://github.com/luchixiang/pcrl)\]
+
+* **medical image segmentation:** Contrastive learning of global and local features for medical image segmentation with limited annotations.
+\[[paper](https://arxiv.org/pdf/2006.10511v2.pdf)\]
+\[[code](https://github.com/krishnabits001/domain_specific_cl)\]
+
+* **3D medical image analysis:** Rubik’s Cube+: A self-supervised feature learning framework for 3D medical image analysis.
+\[[paper](https://www.sciencedirect.com/science/article/abs/pii/S1361841520301109)\]
 
