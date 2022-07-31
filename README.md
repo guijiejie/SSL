@@ -61,6 +61,10 @@ A New Approach to Self-Supervised Learning.
 \[[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/He_Masked_Autoencoders_Are_Scalable_Vision_Learners_CVPR_2022_paper.pdf)\]
 \[[code](https://github.com/facebookresearch/mae)\]
 
+* **iBOT:** iBOT: Image BERT Pre-Training with Online Tokenizer.
+\[[paper](https://arxiv.org/pdf/2111.07832v3.pdf)\]
+\[[code](https://github.com/bytedance/ibot)\]
+
 * **CAE:** Context Autoencoder for Self-Supervised Representation Learning.
 \[[paper](https://arxiv.org/pdf/2202.03026v2.pdf)\]
 \[[code](https://github.com/open-mmlab/mmselfsup)\]
