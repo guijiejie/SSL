@@ -5,7 +5,7 @@ We classify self-supervised algorithms into different pretext tasks. A popular s
 Existing pretext tasks can be roughly classified into three categories: context based, contrastive learning (CL), and generative algorithms.
  
 See our paper for more details.
-If you have any suggestions or find our work helpful, feel free to contact us(Email: tchen@seu.edu.cn). 
+If you have any suggestions or find our work helpful, feel free to contact us(Email: {guijie,tchen}@seu.edu.cn). 
 
 We supply the bibtex file of our paper.
 
@@ -25,11 +25,11 @@ We supply the bibtex file of our paper.
 
 <!--################################################################-->
 ## Contrastive Learning
-* **MOCO v1:** Momentum Contrast for Unsupervised Visual Representation Learning.
+* **MoCo v1:** Momentum Contrast for Unsupervised Visual Representation Learning.
 \[[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/He_Momentum_Contrast_for_Unsupervised_Visual_Representation_Learning_CVPR_2020_paper.pdf)\]
 \[[code](https://github.com/facebookresearch/moco)\]
 
-* **SIMCLR V1:** A Simple Framework for Contrastive Learning of Visual Representations.
+* **SimCLR V1:** A Simple Framework for Contrastive Learning of Visual Representations.
 \[[paper](https://arxiv.org/abs/2002.05709)\]
 \[[code](https://github.com/google-research/simclr)\]
 
