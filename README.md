@@ -31,14 +31,16 @@ See our paper for more details.
 \[[code](https://github.com/facebookresearch/moco)\]
 
 * **(MoCo v3):** An Empirical Study of Training Self-Supervised Vision Transformers.
-\[[v3 paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Chen_An_Empirical_Study_of_Training_Self-Supervised_Vision_Transformers_ICCV_2021_paper.pdf)\]
-\[[v3 code](https://github.com/facebookresearch/moco-v3)\]
+\[[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Chen_An_Empirical_Study_of_Training_Self-Supervised_Vision_Transformers_ICCV_2021_paper.pdf)\]
+\[[code](https://github.com/facebookresearch/moco-v3)\]
 
 * **(SimCLR V1）:** A Simple Framework for Contrastive Learning of Visual Representations.
 \[[paper](https://arxiv.org/abs/2002.05709)\]
 \[[code](https://github.com/google-research/simclr)\]
-\[[v2 paper](https://arxiv.org/pdf/2006.10029.pdf)\]
 
+* **(SimCLR V2）:** Big Self-Supervised Models are Strong Semi-Supervised Learners.
+\[[paper](https://arxiv.org/abs/2006.10029)\]
+\[[code](https://github.com/google-research/simclr)\]
 
 * **(BYOL):** Bootstrap Your Own Latent
 A New Approach to Self-Supervised Learning.
