@@ -25,11 +25,14 @@ See our paper for more details.
 * **(MoCo v1):** Momentum Contrast for Unsupervised Visual Representation Learning.
 \[[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/He_Momentum_Contrast_for_Unsupervised_Visual_Representation_Learning_CVPR_2020_paper.pdf)\]
 \[[code](https://github.com/facebookresearch/moco)\]
-\[[v2 paper](https://arxiv.org/pdf/2003.04297.pdf)\]
+
+* **(MoCo v2):** Improved Baselines with Momentum Contrastive Learning.
+\[[paper](https://arxiv.org/pdf/2003.04297.pdf)\]
+\[[code](https://github.com/facebookresearch/moco)\]
+
+* **(MoCo v3):** An Empirical Study of Training Self-Supervised Vision Transformers.
 \[[v3 paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Chen_An_Empirical_Study_of_Training_Self-Supervised_Vision_Transformers_ICCV_2021_paper.pdf)\]
 \[[v3 code](https://github.com/facebookresearch/moco-v3)\]
-
-Improved Baselines with Momentum Contrastive Learning
 
 * **(SimCLR V1）:** A Simple Framework for Contrastive Learning of Visual Representations.
 \[[paper](https://arxiv.org/abs/2002.05709)\]
