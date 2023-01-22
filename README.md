@@ -67,7 +67,7 @@ See our paper for more details.
   \[[code](https://github.com/facebookresearch/vicreg)\]
 
 - Others:
-    - combination of CL and MIM
+    - methods that combinate CL and MIM
     - ...
 <!--################################################################-->
 ## Generative Algorithms
